@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+p{
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+}
+#top-container{
+
+
+}
+#top-image{
+    height: 100vh;
+    width: 169vh;
+  
+}
+#see-again{
+display: flex;
+justify-content: space-around;
+
+ 
+}
+#trending-now{
+    display: flex;
+    justify-content: space-around;
+}
+#Sci-Fi{
+    display:block;
+    display: flex;
+    justify-content:space-around;
+}
+#top10{
+    display:flex;
+    justify-content: space-between;
+    width: 40px;
+}
+.photo{
+    height: 55px;
+}
+#footer{
+    background:black;
+    color: grey;
+    text-align: center;
+    font-size: small;
+
+   
+}
+.app-logo{
+    background-color: grey;
+    display: flex;
+    align-items: flex-start;
+    
+}
+#button{
+    height: 40px;
+    width: 100px;
+    background-color: black;
+    border: 2px solid rgb(214, 206, 206);
+    color: grey;
+    opacity: 80%;
+
+   
+}
+#endline{
+   
+}
